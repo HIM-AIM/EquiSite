@@ -10,9 +10,9 @@ Submitted to *Advanced Science* (under review)
 
 ---
 
-## 🚧 Repository Status
+## Repository Status
 
-⚠️ **Note:**  
+**Note:**  
 The codebase is currently being cleaned and organized for public release.  
 We are preparing:
 - Training scripts  
@@ -24,7 +24,7 @@ These materials will be released **upon acceptance of the manuscript**.
 
 ---
 
-## 🔬 Overview
+## Overview
 
 EquiSite integrates:
 - SE(3)-equivariant graph attention networks  
@@ -38,7 +38,7 @@ The framework is designed for:
 
 ---
 
-## 📊 Data Availability
+## Data Availability
 
 The datasets used in this study are derived from previously published benchmark collections, including:
 - GraphBind
@@ -48,6 +48,4 @@ The datasets used in this study are derived from previously published benchmark 
 Processed data splits and preprocessing scripts will be released together with the code.
 
 ---
-
-## 📦 Planned Contents
 
