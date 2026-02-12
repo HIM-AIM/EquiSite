@@ -11,7 +11,7 @@
 
 ### 🌟 Graphical Abstract
 
-![Graphical Abstract](Figures/graphical_abstract.png)
+![Graphical Abstract](graphical_abstract.png)
 [cite_start]*(Note: Please ensure the image file is uploaded to the `Figures` folder)* [cite: 16]
 
 
