@@ -9,7 +9,7 @@ This is the official PyTorch implementation of **EquiSite**.
 
 EquiSite achieves state-of-the-art performance on both experimental structures and AlphaFold2-predicted models, and supports structure-guided molecular docking (e.g., HADDOCK3)
 
-### 🌟 Graphical Abstract
+### Graphical Abstract
 
 ![Graphical Abstract](graphical_abstract.png)
 
@@ -17,7 +17,7 @@ EquiSite achieves state-of-the-art performance on both experimental structures a
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 We recommend using Anaconda to manage the environment.
 
@@ -39,7 +39,7 @@ Core dependencies include:
 
 ---
 
-## 🏋️ Training
+## Training
 
 Example training command:
 
@@ -70,7 +70,7 @@ best.pt
 
 ---
 
-## 🔬 Inference (PDB → Binding Probabilities)
+## Inference (PDB → Binding Probabilities)
 
 EquiSite supports end-to-end inference from raw PDB files.
 
@@ -91,7 +91,7 @@ For each input structure:
 
 ---
 
-## 📊 Reproducing Manuscript Results
+## Reproducing Manuscript Results
 
 To reproduce the main results:
 
@@ -104,7 +104,7 @@ All evaluation outputs reported in the manuscript are archived in the Zenodo rel
 
 ---
 
-## 📜 Data
+## Data
 
 Datasets used in this study are derived from previously published benchmark collections.  
 Please refer to the manuscript for detailed dataset construction and preprocessing procedures.
