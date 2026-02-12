@@ -3,16 +3,16 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[cite_start]This is the official PyTorch implementation of **EquiSite**[cite: 3].
+This is the official PyTorch implementation of **EquiSite**.
 
-**EquiSite** is an SE(3)-equivariant geometric graph neural network for accurate protein-DNA and protein-RNA binding site prediction. [cite_start]Unlike existing methods, EquiSite explicitly models **multi-scale protein geometry** (including atomic side-chain orientations) and **eliminates the need for computationally expensive evolutionary profiles (MSAs)**[cite: 10, 11].
+**EquiSite** is an SE(3)-equivariant geometric graph neural network for accurate protein-DNA and protein-RNA binding site prediction. EquiSite explicitly models **multi-scale protein geometry** (including atomic side-chain orientations) and **eliminates the need for computationally expensive evolutionary profiles (MSAs)**.
 
-[cite_start]EquiSite achieves state-of-the-art performance on both experimental structures and AlphaFold2-predicted models, and supports structure-guided molecular docking (e.g., HADDOCK3)[cite: 12, 13].
+EquiSite achieves state-of-the-art performance on both experimental structures and AlphaFold2-predicted models, and supports structure-guided molecular docking (e.g., HADDOCK3)
 
 ### 🌟 Graphical Abstract
 
 ![Graphical Abstract](graphical_abstract.png)
-[cite_start]*(Note: Please ensure the image file is uploaded to the `Figures` folder)* [cite: 16]
+
 
 
 ---
