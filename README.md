@@ -87,7 +87,6 @@ python infer.py \
 For each input structure:
 
 - A per-residue binding probability file (`.out`) is generated
-- Runtime statistics are saved in `runtime.csv`
 
 ---
 
